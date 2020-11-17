@@ -5,8 +5,8 @@ I am learing circuit python
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
 * [Hello_circuit_python](#Hello_circuit_python)
-* [](#Hello circuit python)
-* [Circuit python servo](#Circuit python servo)
+
+* [Circuit_python_servo](#Circuit_python_servo)
 
 ## Hello_circuit_python
 
