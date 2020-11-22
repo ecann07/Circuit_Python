@@ -18,4 +18,4 @@ The first assignment is to make the light blink on the servo to make sure everyt
 [Cicuit python blinking light](https://github.com/ecann07/Circuit_Python/blob/main/Led%20green-red%20blink.py)
 
 ### Image
-![Castor Base](https://user-images.githubusercontent.com/60944377/95152897-f8e62380-0742-11eb-967e-9998e1057492.PNG)
+![Blinking light code](https://github.com/ecann07/Circuit_Python/blob/main/Hello%20circuit%20python%20assignment%20pic.png?raw=true)
