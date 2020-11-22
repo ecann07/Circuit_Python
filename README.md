@@ -15,7 +15,7 @@ I am learing circuit python
 The first assignment is to make the light blink on the servo to make sure everything work properly
 
 ### Evidence
-[Cicuit python blinking light](https://github.com/ecann07/Circuit_Python/blob/main/Led%20green-red%20blink.py)
+[Cicuit python blinking light](https://github.com/ecann07/Circuit_Python/blob/main/Engineering%20Hello%20Circut%20Python.mp4)
 
 ### Image
 ![Blinking light code](https://github.com/ecann07/Circuit_Python/blob/main/Hello%20circuit%20python%20assignment%20pic.png?raw=true)
